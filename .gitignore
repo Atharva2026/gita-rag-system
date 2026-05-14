@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Data folders
+data/pdfs/
+data/processed/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Optional
+.idea/
+.vscode/

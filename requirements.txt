@@ -1,0 +1,7 @@
+pdfplumber
+pdf2image
+pytesseract
+sentence-transformers
+langchain-text-splitters
+pinecone
+python-dotenv
